@@ -1,0 +1,5 @@
+Host: 192.168.15.102
+Database: poc_mvc
+User: postgres
+Password: postgres
+Port: 5432 (padrão)
